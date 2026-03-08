@@ -119,7 +119,7 @@ int main() {
             if (spriteCloud3.getPosition().x > 1920) cloud3Active = false;
         }
 
-        // --- Draw the Scene ---
+        //Draw the Scene
         window.clear();
         window.draw(spriteBackground);
         
