@@ -16,6 +16,6 @@
 
 ```ascii
     ╔══════════════════════════════════════════════════════════╗
-    ║     WHERE CODE MEETS CREATIVITY, AND FUN IS THE ONLY    ║
+    ║     WHERE CODE MEETS CREATIVITY, AND FUN IS THE ONLY     ║
     ║              BUG WE INTENTIONALLY KEEP                   ║
     ╚══════════════════════════════════════════════════════════╝
